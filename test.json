@@ -1,0 +1,28 @@
+[{
+		"firstName": "KAJAL",
+		"lastName": "AGGARWAL",
+		"age": 30,
+		"marks": [{
+				"english": 98
+			},
+			{
+				"maths": 99
+			}
+		],
+		"address": "Hyderabad"
+	},
+
+	{
+		"firstName": "Nisha",
+		"lastName": "AGGARWAL",
+		"age": 30,
+		"marks": [{
+				"english": 96
+			},
+			{
+				"maths": 97
+			}
+		],
+		"address": "Secundrabad"
+	}
+]
